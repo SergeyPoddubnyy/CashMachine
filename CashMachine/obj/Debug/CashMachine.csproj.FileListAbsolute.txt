@@ -1,0 +1,6 @@
+D:\ШАГ\ПРОГРАМИРОВАНЕ\Проекты\CashMachine\CashMachine\bin\Debug\CashMachine.exe.config
+D:\ШАГ\ПРОГРАМИРОВАНЕ\Проекты\CashMachine\CashMachine\bin\Debug\CashMachine.exe
+D:\ШАГ\ПРОГРАМИРОВАНЕ\Проекты\CashMachine\CashMachine\bin\Debug\CashMachine.pdb
+D:\ШАГ\ПРОГРАМИРОВАНЕ\Проекты\CashMachine\CashMachine\obj\Debug\CashMachine.csprojResolveAssemblyReference.cache
+D:\ШАГ\ПРОГРАМИРОВАНЕ\Проекты\CashMachine\CashMachine\obj\Debug\CashMachine.exe
+D:\ШАГ\ПРОГРАМИРОВАНЕ\Проекты\CashMachine\CashMachine\obj\Debug\CashMachine.pdb
